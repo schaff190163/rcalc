@@ -1,0 +1,2 @@
+# rcalc
+Calculator for Resistance
